@@ -1,0 +1,2 @@
+Name: Fuck, Author: Fucker, Price: 1200, QTY: 40
+Name: Fuck, Author: Fucker, Price: 2000, QTY: 20
